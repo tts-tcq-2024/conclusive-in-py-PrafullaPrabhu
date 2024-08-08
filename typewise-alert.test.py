@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-import typewise_alert
+import typewise-alert
 
 
 class TypewiseTest(unittest.TestCase):
